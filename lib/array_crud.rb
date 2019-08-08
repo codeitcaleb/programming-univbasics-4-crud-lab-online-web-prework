@@ -15,15 +15,15 @@ def add_element_to_start_of_array(array, element)
 end
 
 def remove_element_from_end_of_array(array)
-  array.pop(element)
+  array.pop
 end
 
 def remove_element_from_start_of_array(array)
-  array.unshift(element)
+  array.unshift
 end
 
 def retrieve_element_from_index(array, index_number)
-  
+  array[]
 end
 
 def retrieve_first_element_from_array(array)
